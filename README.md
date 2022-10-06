@@ -12,15 +12,34 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/nighttab/main/assets/nighttab.webp"/>
+	<img src="assets/nighttab.webp"/>
 </p>
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+<summary>🌻 Latte</summary>
+	- Primary Colour: `220`
+	- Saturation: `16`
+	- Contrast Range: `90` - `100`
+	- Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes)
+
+<summary>🪴 Frappé</summary>
+	- Primary Colour: `229`
+	- Saturation: `19`
+	- Contrast Range: `23` - `50`
+	- Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes)
+
+<summary>🌺 Macchiato</summary>
+	- Primary Colour: `232`
+	- Saturation: `23`
+	- Contrast Range: `18` - `50`
+	- Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes)
+
+<summary>🌿 Mocha</summary>
+	- Primary Colour: `240`
+	- Saturation: `21`
+	- Contrast Range: `15` - `50`
+	- Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes)
 
 
 ## 💝 Thanks to
