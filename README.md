@@ -17,30 +17,34 @@
 
 ## Usage
 
-<summary>🌻 Latte</summary>
-	- Primary Colour: `220`
-	- Saturation: `16`
-	- Contrast Range: `90` - `100`
-	- Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes)
-
-<summary>🪴 Frappé</summary>
-	- Primary Colour: `229`
-	- Saturation: `19`
-	- Contrast Range: `23` - `50`
-	- Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes)
-
-<summary>🌺 Macchiato</summary>
-	- Primary Colour: `232`
-	- Saturation: `23`
-	- Contrast Range: `18` - `50`
-	- Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes)
-
-<summary>🌿 Mocha</summary>
-	- Primary Colour: `240`
-	- Saturation: `21`
-	- Contrast Range: `15` - `50`
-	- Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes)
-
+<details>
+	<summary>🌻 Latte</summary>
+		- Primary Colour: `220`
+		- Saturation: `16`
+		- Contrast Range: `90` - `100`
+		- Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes)
+</details>
+<details>
+	<summary>🪴 Frappé</summary>
+		- Primary Colour: `229`
+		- Saturation: `19`
+		- Contrast Range: `23` - `50`
+		- Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes)
+</details>
+<details>
+	<summary>🌺 Macchiato</summary>
+		- Primary Colour: `232`
+		- Saturation: `23`
+		- Contrast Range: `18` - `50`
+		- Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes)
+</details>
+<details>
+	<summary>🌿 Mocha</summary>
+		- Primary Colour: `240`
+		- Saturation: `21`
+		- Contrast Range: `15` - `50`
+		- Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes)
+</details>
 
 ## 💝 Thanks to
 
