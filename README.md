@@ -54,6 +54,7 @@
 3. Paste the script and press <kbd>Enter</kbd>
 4. Still in the Console, type `setTheme("[Flavour]","[AccentColor]")` (for example `setTheme("mocha","mauve")`) and press <kbd>Enter</kbd>
 5. Now open the NightTab Settings and select the theme
+   
 ⚠ Please not that you will need to do these steps to add a new theme again, if you reloaded the page. The added Themes will stay.
 
 ## 💝 Thanks to
