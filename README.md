@@ -48,6 +48,13 @@
 		<li> Accent colour: Any (https://github.com/catppuccin/catppuccin#-palettes) </li>
 </details>
 
+### Script
+1. Copy the [script](https://raw.githubusercontent.com/justTOBBI/nighttab/main/settheme.js)
+2. Open the Developer Tools in your browser (<kbd>F12</kbd>) and go to `Console`
+3. Paste the script and press <kbd>Enter</kbd>
+4. Still in the Console, type `setTheme("[Flavour]","[AccentColor]")` (for example `setTheme("mocha","mauve")`) and press <kbd>Enter</kbd>
+5. Now open the NightTab Settings and select the theme
+
 ## 💝 Thanks to
 
 - [justTOBBI](https://github.com/justTOBBI)
