@@ -79,6 +79,7 @@
 ## 💝 Thanks to
 
 - [justTOBBI](https://github.com/justTOBBI)
+- [winston](https://github.com/nekowinston)
 
 &nbsp;
 
