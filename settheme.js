@@ -16,7 +16,7 @@ const clean_hsl = (hsl) => {
 }
 
 const setCatppuccinColours = async() => {
-    return fetch("https://raw.githubusercontent.com/catppuccin/palette/main/palette.json")
+    return fetch("https://raw.githubusercontent.com/catppuccin/palette/v0.2.0/palette.json")
         .then(async(resp) =>
             localStorage.setItem("catppuccin_colours", JSON.stringify(await resp.json()))
         )
