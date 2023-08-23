@@ -68,18 +68,19 @@
 </details>
 
 ### Script
+
 1. Copy the [script](https://raw.githubusercontent.com/justTOBBI/nighttab/main/settheme.js)
-2. Open the Developer Tools in your browser (<kbd>F12</kbd>) and go to `Console`
+2. Open the Developer Tools in your browser (<kbd>F12</kbd>) and go to `Console` (Make sure that you are in the nightTab page)
 3. Paste the script and press <kbd>Enter</kbd>
 4. Still in the Console, type `setTheme("[Flavour]","[AccentColor]")` (for example `setTheme("mocha","mauve")`) and press <kbd>Enter</kbd>
-5. Now open the NightTab Settings and select the theme
-   
-⚠ Please not that you will need to do these steps to add a new theme again, if you reloaded the page. The added Themes will stay.
+5. Refresh, open the nightTab Settings, and select the theme
+
+⚠ Please note that you will need to do these steps to add a new theme again, if you reloaded the page. The added Themes will stay.
 
 ## 💝 Thanks to
 
-- [justTOBBI](https://github.com/justTOBBI)
-- [winston](https://github.com/nekowinston)
+-   [justTOBBI](https://github.com/justTOBBI)
+-   [winston](https://github.com/nekowinston)
 
 &nbsp;
 
